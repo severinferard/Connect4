@@ -1,5 +1,5 @@
 # Connect4
-Dual player Connect4 game oven LAN
+Dual player Connect4 game over LAN
 
 ## Description
 The game features two game modes, local and multiplayer. In local mode, both player play on the same computer one after the other. In multiplayer mode, both player play on a different machine connected to the same network. In order to work, a server needs to be run on a machine connected to the network.
