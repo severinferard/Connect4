@@ -22,7 +22,7 @@ Run the following bash command to install all the packages needed. Those package
 ```GUI.py``` contains two classes,  
 ```main.py``` finally initializes and runs the script. "graphic_client" and "MainMenu". The first one create an object responsible for handling all the graphics of a game. The second class create the main menu object.
 
-## Package used
+## Packages used
 ### Graphics
 * Pygame
 * PygameMenu
